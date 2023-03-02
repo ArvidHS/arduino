@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "LoveOMeter\\LoveOMeter.ino",
+    "sketch": "CrystalBall\\CrystalBall.ino",
     "port": "COM3"
 }
